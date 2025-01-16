@@ -1,10 +1,15 @@
 # ML-prediction
 
 Problem Statement 
+
 Customer churn is one of the most important metrics for a growing business to evaluate. A churn problem is a general way of describing customers switching to another or cancelling out. Churn is a significant concern for banks because it can lead to a decline in revenue, profitability, and market share. In the context of a bank, customer churn means customers of a bank stop using their bank services and move to another bank for various reasons. 
+
 For instance, A bank has noticed an increase in customer churn, which is causing a decrease in revenue and a negative impact on customer satisfaction. The bank wants to understand why customers are leaving and what can be done to reduce churn. The bank has gathered data on customer demographics, account information like estimated salary, credit score and bank balance. By observing the key factors that contribute to customer churn in the banking industry and we develop a predictive model to help the bank retain customers and reduce churn rate. The main objective of our project is to develop a model that predicts churn to identify at-risk customers and intervene before they leave the bank.
+
 Potential of the Project 
+
 The goal of our project is to analyse the data and develop a predictive model to identify customers who are at risk of leaving, as well as to identify the key factors that contribute to churn. Based on the insights gained, the bank will take action to retain customers and reduce churn. 
+
 Specifically, the project will address the following questions: 
 • What are the characteristics of customers who are most likely to churn? 
 • What are the key drivers of churn? 
@@ -12,11 +17,17 @@ Specifically, the project will address the following questions:
 • What actions can the bank take to reduce churn and retain customers? 
 
 The outcome of this project will be a report summarizing the findings, a predictive model for identifying at-risk customers, and recommendations for reducing churn and improving customer retention.
+
+
 Data Sources 
+
 The dataset contains 10,000 customer records with various features related to bank customers, such as their credit score, age, tenure, balance, the number of products they have with the bank, and their estimated salary. The target variable is "Exited," which indicates whether a customer has churned (1) or not (0). 
 In this project, we will be analysing the above features to find out whether a customer has churned or not and address the customers who are at risk of leaving. 
 We have collected dataset from Kaggle: 
+
 https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset
+
+
 Model Implementation:
 Based on the outcomes of the evaluation metrics, we developed various Machine Learning models in phase 2 to estimate each customer churn. We then evaluated the model’s efficiency for the prediction.
 
